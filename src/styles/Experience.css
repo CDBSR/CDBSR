@@ -1,0 +1,85 @@
+/* Experience Section */
+/* .experience-item {
+    margin-bottom: 40px;
+    border-left: 2px solid #64ffda;
+    padding-left: 20px;
+    position: relative;
+  }
+  
+  .experience-item::before {
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #64ffda;
+    left: -7px;
+    top: 5px;
+  }
+  
+  .experience-company {
+    font-size: 20px;
+    color: #ccd6f6;
+    margin-bottom: 5px;
+  }
+  
+  .experience-position {
+    font-size: 16px;
+    color: #64ffda;
+    margin-bottom: 5px;
+  }
+  
+  .experience-date {
+    font-size: 14px;
+    color: #8892b0;
+    margin-bottom: 15px;
+  }
+  
+  .experience-description {
+    color: #8892b0;
+    line-height: 1.7;
+  }
+   */
+
+
+/* Experience Section */
+.experience-item {
+  margin-bottom: 40px;
+  border-left: 2px solid #64ffda;
+  padding-left: 20px;
+  position: relative;
+}
+
+.experience-item::before {
+  content: '';
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #64ffda;
+  left: -7px;
+  top: 5px;
+}
+
+.experience-company {
+  font-size: 20px;
+  color: #ccd6f6;
+  margin-bottom: 5px;
+}
+
+.experience-position {
+  font-size: 16px;
+  color: #64ffda;
+  margin-bottom: 5px;
+}
+
+.experience-date {
+  font-size: 14px;
+  color: #8892b0;
+  margin-bottom: 15px;
+}
+
+.experience-description {
+  color: #8892b0;
+  line-height: 1.7;
+}
